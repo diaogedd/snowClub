@@ -1,0 +1,30 @@
+[
+  {
+    "title": "asd",
+    "desc": "asd",
+    "price": "90",
+    "location": "100sad",
+    "phone": "asd",
+    "wechat": "asd",
+    "createdAt": 1751787759521
+  },
+  {
+    "title": "一把铁锹",
+    "desc": "一把铁锹的描述",
+    "price": "30",
+    "location": "北京",
+    "phone": "8798712837",
+    "wechat": "aksudiqw",
+    "createdAt": 1751878980233
+  },
+  {
+    "title": "images",
+    "desc": "images",
+    "price": "50",
+    "location": "images",
+    "images": [
+      "/uploads/1751880173127-60vua7b1guc.png"
+    ],
+    "createdAt": 1751880173749
+  }
+]

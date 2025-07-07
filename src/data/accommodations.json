@@ -1,0 +1,44 @@
+[
+  {
+    "title": "发布住宿1",
+    "desc": "asdklajsd",
+    "location": "sdasdfasf",
+    "type": "bed",
+    "capacity": "1",
+    "price": "90",
+    "startDate": "2025-07-28T16:00:00.000Z",
+    "endDate": "2025-07-27T16:00:00.000Z",
+    "phone": "asd",
+    "wechat": "asd",
+    "tags": "asd",
+    "createdAt": 1751787744282
+  },
+  {
+    "title": "住在山里可真不错",
+    "desc": "住在山里可真不错的描述",
+    "location": "山里面",
+    "type": "whole",
+    "capacity": "3",
+    "price": "50",
+    "startDate": "2025-07-07T09:07:57.100Z",
+    "endDate": "2025-07-07T16:00:00.000Z",
+    "phone": "8798712837",
+    "wechat": "wechat",
+    "needAccommodation": true,
+    "createdAt": 1751879289393
+  },
+  {
+    "title": "测试图片",
+    "desc": "测试图片",
+    "location": "测试图片",
+    "type": "bed",
+    "capacity": "3",
+    "price": "90",
+    "startDate": "2025-07-06T16:00:00.000Z",
+    "endDate": "2025-07-07T16:00:00.000Z",
+    "images": [
+      "/uploads/1751880110520-3d68ia5xnm6.png"
+    ],
+    "createdAt": 1751880111540
+  }
+]
